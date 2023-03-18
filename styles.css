@@ -3,6 +3,7 @@
 	background-color :#ADD9E5;
 	border: 2px solid black;
 	display: inline-block;
+	position:center;
 	color:purple;
 	padding:100px;
 }
